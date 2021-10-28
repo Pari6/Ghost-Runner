@@ -1,2 +1,1 @@
-# Ghost-Runner
-Project-20
+# C20
